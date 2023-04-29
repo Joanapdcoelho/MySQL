@@ -1,0 +1,11 @@
+Represente a seguinte situação num diagrama, com entidades, campos, chaves e relacionamentos.
+
+· Uma escola tem um conjunto de professores (CodProf, Nome, Morada).  
+
+· Cada professor pode lecionar várias disciplinas (CodDiscip, Nome).  
+
+· Cada disciplina pode ser lecionada por diversos professores
+
+· Todos os professores têm que lecionar.  
+
+· Todas as disciplinas têm que ser lecionadas

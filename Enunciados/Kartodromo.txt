@@ -1,0 +1,19 @@
+Considere a seguinte situação e elabore um desenho de base de dados com DER (diagrama de  tabelas, campos, chaves e relacionamentos:
+
+Um Kartódromo possui vários carros de Kart que podem ser utilizados por dois tipos de pessoas:  utilizadores comuns e corredores de competição.   
+
+Um carro é identificado por um código, matrícula, cilindrada e categoria.   
+
+Um utilizador é  identificado por um código, nome, especialidade, morada e data de nascimento.  
+ 
+Os carros de kart são mantidos e reparados por mecânicos identificados por um código, nome,  salário e data de nascimento. 
+
+Os mecânicos podem reparar  qualquer carro que se encontre avariado.
+   
+Um utilizador comum pode utilizar qualquer tipo de kart, desde que pague a taxa de utilização.    
+
+Um corredor de competição utiliza um único tipo de Kart especial.
+   
+Os carros de Kart podem estar fora de serviço  temporariamente não podendo ser conduzidos por utilizadores comuns.   
+
+Um  corredor de competição tem sempre um kart associado que pode conduzir.

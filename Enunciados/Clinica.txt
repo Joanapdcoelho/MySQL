@@ -1,0 +1,11 @@
+Represente cada uma das seguintes situações, num diagrama ER, com entidades, campos, chaves e relacionamentos.
+
+Pretende-se para o doente os seguintes dados: número de processo, nome, data de nascimento, morada e telefone. 
+ 
+Relativamente aos médicos: código, nome e especialidade, morada, telefone e e-mail.  
+
+As consultas de doentes em relação aos médicos.  
+
+O(s) medicamento(s) receitado(s) aos doentes. 
+ 
+O pagamento de cada consulta.

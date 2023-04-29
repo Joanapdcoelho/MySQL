@@ -1,0 +1,27 @@
+A direcção da cadeia de ginásios Cool&Fit encomendou-lhe uma base de dados para 
+gestão de funcionários, equipamentos e clientes.
+
+Para cada ginásio da cadeia Cool&Fit deve-se registar o nome, a morada e a localidade. 
+Cada ginásio é classificado de acordo com a sua dimensão. 
+
+Os funcionários da cadeia são identificados pelo nome e podem pertencer a uma categoria e respectivo escalão. 
+Um cliente tem sempre associado um "tutor" que deve ser um funcionário do ginásio. 
+
+Cada cliente tem um código que o idêntica em qualquer dos ginásios Cool&Fit. 
+
+Os equipamentos são identificados por um código e descritos por nome, marca, modelo e tipo. 
+A direcção pretende que se guarde informação sobre: Ginásios, Funcionários, 
+Clientes, Equipamentos, Salas, Aulas e Modalidades (aeróbica, cardio-fitness,…). 
+
+Cada aula é identificada por um código sequencial para cada modalidade. 
+Assim, podem existir duas aulas com o código 1, uma de aeróbica e outra de step, por exemplo.
+
+Um cliente pode utilizar qualquer ginásio da cadeia sem limite de tempo nem de número de modalidades praticadas.
+
+Para cada sala deve-se registar: as aulas leccionadas, os clientes que a utilizaram (incluindo hora de entrada e saída da sala) e os equipamentos que lá estão. 
+Uma sala pode ser usada por clientes fora de aulas. 
+
+Cada aula deve ser leccionada por um professor, decorrer numa sala e ter data e hora associadas.
+
+
+

@@ -1,0 +1,17 @@
+Considerando o seguinte problema crie o diagrama relacional não esquecendo de indicar as chaves primárias e estrangeiras assim como os tipos de dados associados.
+
+Uma companhia de seguros pretende implementar uma base de dados do ramo automóvel. A seguinte informação deve ser mantida:
+
+De cada automóvel mantém-se a matrícula, a marca, o modelo, a cor, o ano de construção e o nome do proprietário do carro.
+
+Do cliente (dono da apólice) é registado o nome, nº bilhete de identidade, data de nascimento, morada e nº de contribuinte.
+
+Da apólice mantém-se, além do número, o tipo de seguro, a data de início, quais as coberturas incluídas e o prémio anual.
+
+Para cada acidente deve manter-se a data e uma descrição.
+
+As apólices estão associadas aos automóveis e os automóveis às apólices.
+
+Os clientes podem ter várias apólices e cada automóvel pode ter vários acidentes associados.
+
+Deve também ser mantido qual o condutor habitual e a data da sua carta de condução. 

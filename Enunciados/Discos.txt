@@ -1,0 +1,27 @@
+Considerando o seguinte problema crie o diagrama E-R, seguido do diagrama relacional não
+esquecendo de indicar as chaves primárias e estrangeiras assim como os tipos de dados
+associados:
+
+Uma companhia discográfica necessita de uma base de dados com informação sobre
+os seus músicos e equipamentos da empresa com os seguintes pressupostos:
+
+Existem vários instrumentos musicais e cada um caracterizado por um código, nome,
+tipo de instrumento, peso, altura, largura e cor.
+
+Cada artista é caracterizado por um BI, nome, morada, telefone, email, tipo (Rock,
+Pop, …) e o nº de anos de experiencia.
+
+Cada álbum gravado na companhia tem um título, data criação, formato (CD,DVD,…)
+e uma data de lançamento.
+
+As músicas são gravadas na companhia e têm um código interno e um título.
+
+Cada músico pode tocar vários instrumentos e cada instrumento pode ser tocado por
+vários músicos.
+
+Cada disco contém um certo número de músicas e uma música pode aparecer em
+vários discos. De notar ainda que cada disco tem apenas um músico que é o seu
+produtor. No entanto, os produtores podem produzir vários discos.
+
+Cada música pode ter a participação de vários músicos e cada músico pode participar
+em várias músicas.
